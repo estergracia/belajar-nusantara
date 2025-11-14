@@ -1,0 +1,24 @@
+{
+  "name": "kylazahrawinnetou-semangatcantikk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kylazahrawinnetou/Kylazahrawinnetou-SemangatCantikk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kylazahrawinnetou/Kylazahrawinnetou-SemangatCantikk/issues"
+  },
+  "homepage": "https://github.com/Kylazahrawinnetou/Kylazahrawinnetou-SemangatCantikk#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.18"
+  }
+}
